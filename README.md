@@ -1,4 +1,4 @@
-# rust-boids
+# Rust Boids
 
 Simple Boids simulation in Rust using macroquad
 
